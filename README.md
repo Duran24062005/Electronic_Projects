@@ -1,7 +1,7 @@
 # Electronic_Projects
 
 Repositorio de practica y consulta para proyectos relacionados con
-programacion en C, C++ y Arduino.
+programacion en C, C++, Arduino y ESP32.
 
 ## Estructura
 
@@ -10,6 +10,7 @@ programacion en C, C++ y Arduino.
 | `C/` | Lenguaje C | Fundamentos de programacion de bajo nivel, memoria y compilacion. |
 | `C++/` | Lenguaje C++ | Programacion multiparadigma, clases, objetos, plantillas y STL. |
 | `Arduino/` | Plataforma Arduino | Programacion de microcontroladores, sensores, actuadores y prototipos electronicos. |
+| `ESP32/` | Microcontroladores ESP32 | Conectividad Wi-Fi/Bluetooth, firmware y pruebas de comunicacion para sistemas embebidos. |
 
 ## Objetivo
 
